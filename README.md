@@ -4,7 +4,7 @@
 
 ## More Details
 
-![front](https://github.com/a1694030/AVTA2024/overall_figure.png)<br>
+![front](https://github.com/AVTA2024/overall_figure.png)<br>
 This resource library and our contributions include:<br>
 1. Open-sourced a new dataset;<br>
 2. Used the monthly Application usage times to label the dataset, and released a benchmark;<br>
