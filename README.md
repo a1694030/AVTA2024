@@ -4,7 +4,7 @@
 
 ## More Details
 
-![front](overall figure.png)
+![front](https://github.com/a1694030/AVTA2024/raw/mian/overall figure.png)
 This resource library and our contributions include:<br>
 1. Open-sourced a new dataset;<br>
 2. Used the monthly Application usage times to label the dataset, and released a benchmark;<br>
